@@ -45,7 +45,7 @@ while isGuessRight != True:
         isGuessRight = True
     else:
         print("You guessed {}. Sorry, that isn’t it. Try again.".format(guess))
-    ```
+```
     **Note:** The while loop will repeat the code inside the loop until the number is guessed correctly, which is represented by the condition isGuessRight != True in the code. Additionally, Python uses indentation to determine logic blocks, or what statements are considered to be part of the while loop. You can indent a line by placing the cursor next to a statement and pressing TAB.
 
 9. Save the file.
