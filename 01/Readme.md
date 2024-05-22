@@ -8,10 +8,11 @@ The python.org website has installers and general documentation for Python.
 
 Most systems will have one or more versions of Python installed, with Python version 2.7 as the default.
 
-To confirm the default version of Python that is installed in your lab, in the open terminal tab, enter:
+1. To confirm the default version of Python that is installed in your lab, in the open terminal tab, enter:
 
 `python --version`
-To check other available versions of Python, enter the following commands:
+
+2. To check other available versions of Python, enter the following commands:
 
 ```bash
 python --version
@@ -34,15 +35,16 @@ Python 3.6.12
 
 When someone learns how to program, it is traditional to start with the Hello, World program. This simple program verifies that you have installed the Python tools correctly.
 
-From the navigation pane of the IDE, choose the file that you created in the previous Creating your Python exercise file section.
+3. From the navigation pane of the IDE, choose the file that you created in the previous Creating your Python exercise file section.
 
-In the file, enter the following code:
+4. In the file, enter the following code:
 
 `print("Hello, World")`
-To save your file, choose File > Save.
 
-Near the top of the IDE window, choose the Run (Play) button.
+5. To save your file, choose File > Save.
 
-In the bottom pane of the IDE, confirm that the program prints the words Hello World.
+6. Near the top of the IDE window, choose the Run (Play) button.
+
+7. In the bottom pane of the IDE, confirm that the program prints the words Hello World.
 
 Congratulations! You have written your first Python program.
